@@ -1,0 +1,13 @@
+.footer{
+    max-width: var(--width);
+    height: 100px;
+    display: flex;
+    margin: 2rem 0 2rem auto;
+    background-color: #2fa97c;
+    align-items: center;
+}
+
+#footer-text{
+    padding: 20px;
+    color: var(--color-white);
+}
